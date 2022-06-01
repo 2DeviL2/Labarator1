@@ -1,0 +1,8 @@
+﻿body {
+}
+
+#wrongLoginOrPassword,
+#labeDataClear {
+    color: red;
+}
+
